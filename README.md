@@ -16,14 +16,14 @@
 - Product attributes: cost price, promotion price, stock, size...
 - Blog: category, tag, content, web page 
 - Module/Extension: Shipping, payment, discount, ...
-- Upload manager: banner, images,..
+- Upload manager: banner, images,
 - SEO support: customer URL b
 - Newsletter management
 - Contact forms with the real-time notification (Laravel Pusher)
-- Related Products, Recommendations for you in our categories
+- Related Products and recommendations for you in our categories
 - A Product search form
-- Laravel Socialite implement(Facebook, Google & twitter) & Customer login
-- Product Share and follow from different social platform...
+- Laravel Socialite implement(Facebook, Google & Twitter) & Customer login
+- Product Share and follow from different social platforms...
 - Payment integration(Paypal)
 - Order Tracking system
 - Multi-level comment system
@@ -32,8 +32,8 @@ many more......
 ## ======= ADMIN =======
 
 - Admin roles, permission
-- Product manager
-- Media manager using unisharp laravel file manager
+- Product Manager
+- Media manager using Unisharp Laravel file manager
 - Banner manager
 - Order management
 - Category management
@@ -43,12 +43,12 @@ many more......
 - Blog, Category & Tag manager
 - User Management
 - Coupon Management
-- System config: email setting, info shop, maintain status,...
+- System config: email setting, infoshop, maintain status,...
 - Line Chart & Pie chart ...
 - Generate order in pdf form...
-- Real time message & notification
+- Real-time message & notification
 - Profile Settings
-Many more....
+Many more...
 
 
 ## ======= USER DASHBOARD =======
